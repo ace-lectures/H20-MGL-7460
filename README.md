@@ -1,4 +1,4 @@
-# MGK7460: Réalisation & Maintenance de Logiciels
+# MGL7460: Réalisation & Maintenance de Logiciels
 
 ## Informations Générales
 
@@ -12,54 +12,56 @@
 
 ### Objectif du cours
 
-
+Sensibiliser les étudiants aux problématiques de réalisation et de maintenance du logiciel.
 
 ### Évaluation & Planning de rendus
 
 **Les dates de remise s'entendent sur le fuseau horaire de Montréal, à 23:50 le jour de la date de remise. Tout rendu hors délai recevra la note de zéro (0). Les règles concernant le plagiat seront appliquées sans aucune tolérance.**
 
-| Date(s)        | Travail à rendre               | Objectif                                             | Poids |
-| :---:          | :---                           | :---                                                 | :---: |
-|   |   |   |   |
-
-
+| Date(s)        | Travail à rendre               |  Poids |
+| :---:          | :---                           | :---: |
+| 19.01.20 | Choix du cas d'études individuel   | 0%  |
+| 01.03.20 |  Projet Individuel - V1  |  20%  |
+| 15.03.20 |  Projet Technique - MVP  |  10%  |
+| 12.04.20 |  Projet Individuel - V2  |  40%  |
+| 26.04.20 |  Projet Technique - Final |  20%  |
 
 ## Agenda des séances
 
-En régime régulier, les cours ont lieu le jeudi, de 15h à 18h.
+En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locaux de Desjardins.
 
-| #Semaine | Cours | Atelier |
+| #Semaine | Cours (UQAM) | Atelier (SFL) |
 | :---: | :---:   | :---    |
-| 1  | Réaliser, Maintenir et Modéliser du logiciel ? |  --  |
-| 2  | Gestion de versions, Démarche de tests  |  --  |
-| 3  |  --  | _Git, Unit tests_  |
-| 4  | Exigences, Scénarios d'acceptations  | --  |
-| 5  | Déploiement continu, _Test-driven development_  | --  |
-| 6  | --  |  _Gitlab CI, Cucumber_  |
-| 7  | Analyse de code  | _Sonarqube_  |
-| 8  | _Semaine de relâche_  | --  |
-| 9  | Principes de développement (_CleanCode_, SOLID)  | --  |
-| 10 | Métriques Logicielles & Visualisation pour la maintenance  |  --  |
-| 11 | _Rencontres avec les équipes_  |  Suivi projet de session  |
-| 12 | _Rencontres avec les équipes_  |  Suivi projet de session  |
-| 13 | Cours d'ouverture  |   |
-
-
-Matériel supplémentaire :
-
-
+| 2  | Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ? |  --  |
+| 3  | Gestion de versions, Démarche de tests  |  --  |
+| 4  |  --  | _Git, Unit tests_  |
+| 5  | Exigences, Scénarios d'acceptations  | --  |
+| 6  | Déploiement continu, _Test-driven development_  | --  |
+| 7  | --  |  _Gitlab CI, Cucumber_  |
+| 8  | Analyse de code  | _Sonarqube_  |
+| 9  | _Semaine de relâche_  | --  |
+| 10  | Principes de développement (_CleanCode_, SOLID)  | --  |
+| 11 | Métriques Logicielles & Visualisation pour la maintenance  |  --  |
+| 12 | _Présentation intermédiaire du Projet Technique_  |  _idem_  |
+| 13 | Cours de renforcement / Étude de cas  |  Suivi projet technique  |
+| 14 | Cours invité (Pr Xavier Blanc, Univ. Bordeaux)  |  Suivi projet technique  |
+| 15 | Cours invité (TBA) |  Suivi projet technique  |
+| 16 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
+| 17 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
 
 ## Travaux
 
-
-### Projets de session (à rendre)
+  - Projet Individuel
+    - Mémoire de synthèse sur la maintenabilité d'un logiciel
+  - Projet Technique :
+    - Mise en oeuvre d'un pipeline de déploiement continu
 
 
 ## Barème
 
   - Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULTATS.
   - La note de passage est de 50/100.
-  - *Attention*: une note inférieure à 50/100 sur le projet individuel fait échouer le cours.
+  - *Attention*: une note inférieure à 50/100 sur le projet individuel fait échouer le cours, indépendamment de la note obtenue au projet technique.
 
 <div align="center">
 
