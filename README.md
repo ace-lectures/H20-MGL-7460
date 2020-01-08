@@ -32,12 +32,12 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 | #Semaine | Cours (UQAM) | Atelier (SFL) |
 | :---: | :---:   | :---    |
-| 2  | Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ? |  --  |
+| 2  | Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ? |  (Lab optionnel)  |
 | 3  | Gestion de versions, Démarche de tests  |  --  |
-| 4  |  --  | _Git, Unit tests_  |
+| 4  |  --  | _Git, GitLab, GitLab CI_  |
 | 5  | Exigences, Scénarios d'acceptations  | --  |
 | 6  | Déploiement continu, _Test-driven development_  | --  |
-| 7  | --  |  _Gitlab CI, Cucumber_  |
+| 7  | --  |  _BDD, TDD_  |
 | 8  | Analyse de code  | _Sonarqube_  |
 | 9  | _Semaine de relâche_  | --  |
 | 10  | Principes de développement (_CleanCode_, SOLID)  | --  |
@@ -48,6 +48,10 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 15 | Cours invité (TBA) |  Suivi projet technique  |
 | 16 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
 | 17 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
+
+
+  * Énoncé des travaux pratiques :
+    * [https://yakoi.gitlab.io/mgl7460/](https://yakoi.gitlab.io/mgl7460/https://yakoi.gitlab.io/mgl7460/)
 
 ## Travaux
 
