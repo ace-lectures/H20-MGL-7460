@@ -32,7 +32,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 | #Semaine | Cours (UQAM) | Atelier (SFL) |
 | :---: | :---:   | :---    |
-| 2  | Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ? |  (Lab optionnel)  |
+| 2  | [Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ?](./cours/1_intro.pdf) |  (Lab optionnel)  |
 | 3  | Gestion de versions, Démarche de tests  |  --  |
 | 4  |  --  | _Git, GitLab, GitLab CI_  |
 | 5  | Exigences, Scénarios d'acceptations  | --  |
