@@ -45,7 +45,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 12 | _Présentation intermédiaire du Projet Technique_  |  _idem_  |
 | 13 | Cours de renforcement / Étude de cas  |  Suivi projet technique  |
 | 14 | Cours invité (Pr Xavier Blanc, Univ. Bordeaux)  |  Suivi projet technique  |
-| 15 | Cours invité (TBA) |  Suivi projet technique  |
+| 15 | Cours invité (Pr Francis Bordeleau, ÉTS) |  Suivi projet technique  |
 | 16 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
 | 17 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
 
