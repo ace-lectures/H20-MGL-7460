@@ -8,7 +8,7 @@
   * Horaire du groupe `090`, session d'hiver 2020:
     * Cours : Jeudi, 15h00 - 18h00, _Tour Desjardins_
   * Communication :
-    * Courriel (avec `[MGL7460-090]` en préfixe)
+    * Slack : [mgl7460-h20.slack.com](mgl7460-h20.slack.com)
 
 ### Objectif du cours
 
@@ -51,7 +51,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 
   * Énoncé des travaux pratiques :
-    * [https://yakoi.gitlab.io/mgl7460/](https://yakoi.gitlab.io/mgl7460/https://yakoi.gitlab.io/mgl7460/)
+    * [https://yakoi.gitlab.io/mgl7460/](https://yakoi.gitlab.io/mgl7460/)
 
 ## Travaux
 
