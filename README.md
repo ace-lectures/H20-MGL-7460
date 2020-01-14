@@ -22,7 +22,7 @@ Sensibiliser les étudiants aux problématiques de réalisation et de maintenanc
 | :---:          | :---                           | :---: |
 | 19.01.20 | Choix du cas d'études individuel   | 0%  |
 | 01.03.20 |  Projet Individuel - V1  |  20%  |
-| 15.03.20 |  Projet Technique - MVP  |  10%  |
+| 15.03.20 |  Projet Technique - MVP  |  20%  |
 | 12.04.20 |  Projet Individuel - V2  |  40%  |
 | 26.04.20 |  Projet Technique - Final |  20%  |
 
@@ -73,7 +73,13 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 </div>
 
-## Bibliographie
+## Bibliographie & Références
+
+### Articles scientifiques
+
+  * _Enseigner la rétro-ingénierie, en s’interrogeant sur l’évolution du logiciel : retour d’expériences_
+    * Mireille Blay-Fornarino, Sébastien Mosser, Xavier Blanc. CIEL 2017.
+    * [Accès PDF](./docs/ciel17.pdf)
 
 ### Livres d'enseignement
 
