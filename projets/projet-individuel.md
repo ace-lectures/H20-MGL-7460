@@ -109,4 +109,6 @@ tba
 ## Sujets Choisis à cette session :
 
   1. Marc-André: Logiciel `Krita`
-    * Dépôt de code : [https://github.com/KDE/krita](https://github.com/KDE/krita)
+      * Dépôt de code : [https://github.com/KDE/krita](https://github.com/KDE/krita)
+  2. Nasseredine: Logiciel `Spring Initializr`
+      * Dépôt de code : [https://github.com/RameshMF/initializr](https://github.com/RameshMF/initializr)
