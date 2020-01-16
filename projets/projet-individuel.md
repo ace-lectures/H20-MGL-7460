@@ -112,3 +112,5 @@ tba
       * Dépôt de code : [https://github.com/KDE/krita](https://github.com/KDE/krita)
   2. Nasseredine: Logiciel `Spring Initializr`
       * Dépôt de code : [https://github.com/RameshMF/initializr](https://github.com/RameshMF/initializr)
+  3. Gary : Logiciel `Angular`
+      * Dépôt de code: [https://github.com/angular/angular](https://github.com/angular/angular)
