@@ -33,7 +33,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | #Semaine | Cours (UQAM) | Atelier (SFL) |
 | :---: | :---:   | :---    |
 | 2  | [Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ?](./cours/1_intro.pdf) |  (Lab optionnel)  |
-| 3  | Gestion de versions, Démarche de tests  |  --  |
+| 3  | [Gestion de versions, Tests](./cours/2_versions_tests.pdf)  |  --  |
 | 4  |  --  | _Git, GitLab, GitLab CI_  |
 | 5  | Exigences, Scénarios d'acceptations  | --  |
 | 6  | Déploiement continu, _Test-driven development_  | --  |
@@ -80,6 +80,9 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
   * _Enseigner la rétro-ingénierie, en s’interrogeant sur l’évolution du logiciel : retour d’expériences_
     * Mireille Blay-Fornarino, Sébastien Mosser, Xavier Blanc. CIEL 2017.
     * [Accès PDF](./docs/ciel17.pdf)
+  * _On the Nature of Merge Conflicts: a Study of 2,731 Open Source Java Projects Hosted by GitHub_  
+    * Gleiph Ghiotto, Leonardo Murta, Márcio Barros, and André van der Hoek. TSE18, ICSE19.
+    * [Accès PDF](./docs/ghiotto.pdf)
 
 ### Livres d'enseignement
 
