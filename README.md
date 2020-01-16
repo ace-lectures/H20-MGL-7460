@@ -4,7 +4,7 @@
 
   * Équipe Enseignante :
     * Professeur : Sébastien Mosser (UQAM, [Site web personnel](https://mosser.github.io), [Groupe de recherche ACE](https://ace-design.github.io))
-    * Travaux Pratiques : Jean-Philippe Gélinas (SFL, Lévis), Jonatan Cloutier (SFL, Montréal)
+    * Laboratoires : Jean-Philippe Gélinas (SFL, Lévis), Jonatan Cloutier (SFL, Montréal)
   * Horaire du groupe `090`, session d'hiver 2020:
     * Cours : Jeudi, 15h00 - 18h00, _Tour Desjardins_
   * Communication :
@@ -56,7 +56,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 ## Travaux
 
   - Projet Individuel
-    - Mémoire de synthèse sur la maintenabilité d'un logiciel
+    - [Mémoire de synthèse sur la maintenabilité d'un logiciel](./projets/projet-individuel.md)
   - Projet Technique :
     - Mise en oeuvre d'un pipeline de déploiement continu
 

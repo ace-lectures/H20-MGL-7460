@@ -1,10 +1,14 @@
 # Projet Individuel MGL7460-90 (Hiver 2020)
 
+  * Auteur : Sébastien Mosser (UQAM)
+  * Date de publication : Janvier 2020
+  * Relecteurs : Mireille Blay-Fornarino (UCA), Philippe Collet (UCA)
+
 ## Objectifs pédagogiques
 
 Dans ce projet individuel, vous êtes en chargé par votre hiérarchie de l’analyse
 d’un logiciel légataire afin d’estimer le risque pour votre compagnie d’accepter
-un projet de tierce maintenance applicative sur ce logiciel.
+un projet de tierce maintenance applicative sur ce logiciel. Pour rendre cette situation réaliste, nous simulerons cette application légataire par une application _open-source_ accessible publiquement.
 
 Il est a votre charge d’identifier la méthodologie à mettre en oeuvre pour mener
 l’analyse de ce logiciel, de la mettre en oeuvre, et de livrer vos conclusions
@@ -17,10 +21,10 @@ de synthèse.
     version (_e.g._, GitHub, Gitlab) de manière publique. Vous êtes entièrement
     libre du choix du projet (_e.g._, langage, taille, ...), mais votre choix
     doit être validé avec l’enseignant.
-  - Si votre analyse utilise des scripts ou des outils, vous devez accompagner
-    votre rapport de synthèse d’un dépôt de code contenant _(i)_ les scripts /
-    chiffriers que vous avez développés et _(ii)_ comment installer et utiliser
-    les outils que vous avez réutilisés
+  - Vous devez accompagner votre rapport de synthèse d’un dépôt de code contenant :
+      - les scripts / chiffriers / programmes que vous avez développés pour mener votre analyse;
+      - Les données brutes que vous avez collectés;
+      - une explication montrant comment installer et utiliser les outils que vous avez réutilisés
   - Le rapport de synthèse doit être livré au format PDF, faire 15 pages maximum
     (page de garde et annexes incluses, police times 11, interligne simple), et
     répondre aux questions d’analyse décrites dans ce sujet. Faites attention à
@@ -35,10 +39,12 @@ de synthèse.
     de votre hiérarchie. Votre recommandation finale doit être de haut niveau,
     et prendre un recul global sur l’application.
 
+Une liste de projets est maintenue [ici](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpgEDfd2atEU43n7IF-SQEbLDFIgCb80ea3_p9QV2bV5CJuVjrFFUoVqVh5RhNg9AXRo9d27XcjBfK/pubhtml) si vous êtes à cours d'idées.
+
 ## Cadre d'analyse de maintenance
 
 Les thématiques suivantes ne sont pas une liste exhaustive. Vous ne devez pas
-tout traiter dans votre projet. Il est de votre responsabilite d'identifier ce
+tout traiter dans votre projet. Il est de votre responsabilité d'identifier ce
 qui a le plus de sens dans le cadre de votre étude.
 
 Pour chaque question, vous êtes libre de choisir la représentation la plus
@@ -52,7 +58,7 @@ votre méthodologie.
 ### Dimension "Équipe de développement"
 
   1. Qui sont les développeurs principaux du projet ?
-  2. L'équipe de développement est-elle stable, ou y a t'il beaucoup de rotation ?
+  2. L'équipe de développement est-elle stable ?
   3. Comment est répartie la paternité du code source dans l'équipe ?
   4. Comment les développeurs communiquent entre eux ?
 
@@ -72,7 +78,7 @@ votre méthodologie.
 ### Dimension "Code source"
 
   1. Comment qualifiez vous la _qualité_ du code source ?
-  2. Quels outils de construction sont utilisés ?
+  2. Quels outils de construction (p.-ex. `make`, `maven`) sont utilisés ?
   3. Quel modèle de branche est utilisé dans le développement du projet ?
   4. Dans quelle mesure la compilation du code est-elle reproductible ?
   5. A quel point le code est-il dépendant de bibliothèques externes ?
@@ -95,16 +101,33 @@ votre méthodologie.
   - `L1` : Rapport intermédiaire.
     * Doit définir les questions qui vont être traitées
     * Doit répondre à un sous-ensemble de ces questions
+    * Doit expliciter la méthode qui sera suivie et les outils envisagés pour répondre aux autres questions.
   - `L2`: Rapport de synthèse final.
     * Contient les corrections demandées suite à la rétroaction sur `L1`;
-    * Répond aux questions identifiées;  
+    * Répond aux questions identifiées, ou explique les changements s'il y en à eu;  
     * Contient la note de synthèse sur le logiciel
 
-_Astuce_ : Plus votre rapport intermédiaire contient d'information, plus vous obtiendrez de rétro-action sur votre travail.
+
+_Astuce_ : Plus votre rapport intermédiaire contient d'information, plus vous obtiendrez de rétro-action sur votre travail et pourrez préparer le livrable final dans de bonnes conditions.
 
 ## Critères d'évaluation
 
-tba
+| Thème | Critère        | Poids |
+| :---: | :---         | :---: |
+| Rapport | Qualité rédactionnelle | 10% |
+|   | Qualité de l'analyse  | 20%  |
+|   | Couverture de l'analyse  | 10%  |
+|   | Pertinence de la méthodologie  | 20%  |
+| Code   | Réutilisabilité des outils développés  | 10%  |
+|   | Qualité du code  |  5%  |
+| Entretien    | Qualité de la présentation  | 10%  |
+|   | Réponses aux questions  | 15%  |
+
+Pour le livrable `L1` :
+
+  * Comme il n'y a pas d'entretien, la note sur `/75` est ramenée à 100 par une règle de trois, arrondi au point le plus proche.
+  * Si les critères d'évaluations sont les mêmes que pour `L2`, l'évaluation sera plus pointue pour le rendu final que pour le rendu intermédiaire.
+
 
 ## Sujets Choisis à cette session :
 
