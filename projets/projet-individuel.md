@@ -137,3 +137,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/RameshMF/initializr](https://github.com/RameshMF/initializr)
   3. Gary : Logiciel `Angular`
       * Dépôt de code: [https://github.com/angular/angular](https://github.com/angular/angular)
+  4. Cristina: Logiciel `React`
+      * Dépôt de code : [https://github.com/facebook/react](https://github.com/facebook/react)
