@@ -139,3 +139,5 @@ Pour le livrable `L1` :
       * Dépôt de code: [https://github.com/angular/angular](https://github.com/angular/angular)
   4. Cristina: Logiciel `React`
       * Dépôt de code : [https://github.com/facebook/react](https://github.com/facebook/react)
+  5. Leonardo : Logiciel `NGXS`
+      * Dépôt de code : [https://github.com/ngxs/store](https://github.com/ngxs/store)
