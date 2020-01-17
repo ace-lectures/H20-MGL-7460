@@ -134,7 +134,7 @@ Pour le livrable `L1` :
   1. Marc-André: Logiciel `Krita`
       * Dépôt de code : [https://github.com/KDE/krita](https://github.com/KDE/krita)
   2. Nasseredine: Logiciel `Spring Initializr`
-      * Dépôt de code : [https://github.com/RameshMF/initializr](https://github.com/RameshMF/initializr)
+      * Dépôt de code : [https://github.com/spring-io/initializr](https://github.com/spring-io/initializr)
   3. Gary : Logiciel `Angular`
       * Dépôt de code: [https://github.com/angular/angular](https://github.com/angular/angular)
   4. Cristina: Logiciel `React`
