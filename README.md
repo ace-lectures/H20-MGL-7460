@@ -63,13 +63,13 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 ## Barème
 
-  - Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULTATS.
-  - La note de passage est de 50/100.
-  - *Attention*: une note inférieure à 50/100 sur le projet individuel fait échouer le cours, indépendamment de la note obtenue au projet technique.
+  - Le cours utilise la grille d'évaluation standard de l'UQAM au second cycle définie dans RESULTATS.
+  - La note de passage est de 63/100, conformément à la grille du second cycle.
+  - *Attention*: une note inférieure à 60/100 sur le projet individuel fait échouer le cours, indépendamment de la note obtenue au projet technique.
 
 <div align="center">
 
-![echelle de notes](./docs/echelle.png)
+![echelle de notes](./docs/echelle_M.png)
 
 </div>
 
