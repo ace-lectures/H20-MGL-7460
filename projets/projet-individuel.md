@@ -147,3 +147,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/node-red/node-red](https://github.com/node-red/node-red)
   8. Lilian : Logiciel `Jenkins`
       * Dépôt de code : [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
+  9. Dionisie : Logiciel `JHipster Generator`
+      * Dépôt de code : [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
