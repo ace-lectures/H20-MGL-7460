@@ -143,3 +143,7 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/ngxs/store](https://github.com/ngxs/store)
   6. Simon: Logiciel `Dolphin`
       * Dépôt de code : [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
+  7. Gérald : Logiciel `NodeRed`
+      * Dépôt de code : [https://github.com/node-red/node-red](https://github.com/node-red/node-red)
+  8. Lilian : Logiciel `Jenkins`
+      * Dépôt de code : [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
