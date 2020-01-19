@@ -149,3 +149,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
   9. Dionisie : Logiciel `JHipster Generator`
       * Dépôt de code : [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
+  10. Pape Tahyre: Logiciel `Mockito`
+      * Dépôt de code : [https://github.com/mockito/mockito](https://github.com/mockito/mockito)
