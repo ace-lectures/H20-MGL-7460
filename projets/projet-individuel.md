@@ -141,3 +141,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/facebook/react](https://github.com/facebook/react)
   5. Leonardo : Logiciel `NGXS`
       * Dépôt de code : [https://github.com/ngxs/store](https://github.com/ngxs/store)
+  6. Simon: Logiciel `Dolphin`
+      * Dépôt de code : [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
