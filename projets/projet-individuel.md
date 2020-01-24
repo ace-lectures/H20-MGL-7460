@@ -151,3 +151,7 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
   10. Pape Tahyre: Logiciel `Mockito`
       * Dépôt de code : [https://github.com/mockito/mockito](https://github.com/mockito/mockito)
+  11. Jean-Pierre: Logiciel `Wordpress`
+      * Dépôt de code : [https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress)
+  12. Majed: Logiciel JUnit5
+      * Dépot de code: [https://github.com/junit-team/junit5](https://github.com/junit-team/junit5)
