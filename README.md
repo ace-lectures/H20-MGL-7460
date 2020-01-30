@@ -35,7 +35,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 2  | [Leçon introductive: Réaliser, Maintenir et Modéliser du logiciel ?](./cours/1_intro.pdf) |  (Lab optionnel)  |
 | 3  | [Gestion de versions, Tests](./cours/2_versions_tests.pdf)  |  --  |
 | 4  |  --  | _Git, GitLab, GitLab CI_  |
-| 5  | Exigences, Scénarios d'acceptations  | --  |
+| 5  | [Exigences, Scénarios d'acceptations](./cours/4_exigences_acceptation.pdf)  | --  |
 | 6  | Déploiement continu, _Test-driven development_  | --  |
 | 7  | --  |  _BDD, TDD_  |
 | 8  | Analyse de code  | _Sonarqube_  |
@@ -58,7 +58,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
   - Projet Individuel
     - [Mémoire de synthèse sur la maintenabilité d'un logiciel](./projets/projet-individuel.md)
   - Projet Technique :
-    - Mise en oeuvre d'un pipeline de déploiement continu
+    - [Mise en oeuvre d'un pipeline de déploiement continu](./projets/projet-technique.md)
 
 
 ## Barème
