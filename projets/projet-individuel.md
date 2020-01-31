@@ -161,3 +161,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
   15. Jimmy : Logiciel `Kafka`
       * Dépôt de code : [https://github.com/apache/kafka](https://github.com/apache/kafka)
+  16. Eric : Logiciel `RxJS`
+      * Dépôt de code : [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs)
