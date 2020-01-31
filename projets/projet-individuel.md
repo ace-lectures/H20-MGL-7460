@@ -149,11 +149,13 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
   9. Dionisie : Logiciel `JHipster Generator`
       * Dépôt de code : [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  10. Pape Tahyre: Logiciel `Mockito`
+  10. Pape Tahyre : Logiciel `Mockito`
       * Dépôt de code : [https://github.com/mockito/mockito](https://github.com/mockito/mockito)
-  11. Jean-Pierre: Logiciel `Wordpress`
+  11. Jean-Pierre : Logiciel `Wordpress`
       * Dépôt de code : [https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress)
-  12. Majed: Logiciel JUnit5
+  12. Majed : Logiciel JUnit5
       * Dépot de code: [https://github.com/junit-team/junit5](https://github.com/junit-team/junit5)
-  13. Alexandre: Logiciel `MySQL-Server`
+  13. Alexandre : Logiciel `MySQL-Server`
       * Dépôt de code : [https://github.com/mysql/mysql-server](https://github.com/mysql/mysql-server)
+  14. Nicolas : Logiciel `Android Framework`
+      * Dépôt de code : [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
