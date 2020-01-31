@@ -159,3 +159,5 @@ Pour le livrable `L1` :
       * Dépôt de code : [https://github.com/mysql/mysql-server](https://github.com/mysql/mysql-server)
   14. Nicolas : Logiciel `Android Framework`
       * Dépôt de code : [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base)
+  15. Jimmy : Logiciel `Kafka`
+      * Dépôt de code : [https://github.com/apache/kafka](https://github.com/apache/kafka)
