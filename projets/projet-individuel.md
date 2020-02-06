@@ -149,4 +149,5 @@ Pour le livrable `L1` :
 | Nicolas | `Android Framework` | [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base) |
 | Jimmy |`Kafka`| [https://github.com/apache/kafka](https://github.com/apache/kafka) |
 | Eric | `RxJS` | [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) |
+| David | `Mockito` | [https://github.com/mockito/mockito](https://github.com/mockito/mockito) |
 
