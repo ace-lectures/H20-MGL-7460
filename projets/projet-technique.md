@@ -5,18 +5,18 @@
 
 ## Objectifs pédagogiques
 
-Dans ce projet technique à réaliser par équipe de deux, vous êtes responsable de la "réalisation" d'un logiciel de petite envergure. Cette réalisation couvre toutes les phased du développement, du receuil des exigences à la mise en place d'un environnement de déploiement continu pour le projet.
+Dans ce projet technique à réaliser par équipe de deux, vous êtes responsable de la "réalisation" d'un logiciel de petite envergure. Cette réalisation couvre toutes les phases du développement, de la collecte des exigences à la mise en place d'un environnement de déploiement continu pour le projet.
 
 ## Contraintes
 
   - Le développement est effectué en Java;
-  - La compilation du projet d'effectue à l'aide de Maven (ou de Gradle), lancé depuis la racine de votre dépôt;
-  - Le pipeline d'intégration continue est automatiquement lancé au `push` sur le dépot
-  - les scénarios d'acceptations sont implémentés en cucumber.
+  - La compilation du projet d'effectue à l'aide de _Maven_ (ou de _Gradle_), lancé depuis la racine de votre dépôt;
+  - Le pipeline d'intégration continue est automatiquement lancé au `push` sur le dépôt
+  - les scénarios d'acceptations sont implémentés en _Cucumber_.
 
 ## Application à développer
 
-On s'interesse à la définition d'un logiciel de gestion de produits bancaires. Un premier module est à destination des employés de la banque, pour créer des comptes clients et gérer ceux-ci. Un second module est destiné aux clients, qui peuvent consulter les produits qu'ils ont dans la banque, et y apporter des modifications. Ces deux modules partagent une dépendance vers le système de la banque.
+On s'intéresse à la définition d'un logiciel de gestion de produits bancaires. Un premier module est à destination des employés de la banque, pour créer des comptes clients et gérer ceux-ci. Un second module est destiné aux clients, qui peuvent consulter les produits qu'ils ont dans la banque, et y apporter des modifications. Ces deux modules partagent une dépendance vers le système de la banque.
 
 <div align=center">
 
@@ -24,9 +24,9 @@ On s'interesse à la définition d'un logiciel de gestion de produits bancaires.
 
 </div>
 
-Les modules des employés et des clients fonctionnent sous la forme d'application en ligne de commande, non interactive. La communication entre les modules est laissée à votre discretion (p.-ex. services REST, RMI, ...).
+Les modules des employés et des clients fonctionnent sous la forme d'application en ligne de commande, non interactive. La communication entre les modules est laissée à votre discrétion (p.-ex. services REST, RMI, ...).
 
-On ne se préoccupe pas de la sécurité, ni de la persistance. L'objectif est la réalisation de l'application et la mise en place du pipeline de déploiement continu. L'application en elle-même n'est qu'un pretexte, que l'on garde volontairement simpliste.
+On ne se préoccupe pas de la sécurité, ni de la persistance. L'objectif est la réalisation de l'application et la mise en place du pipeline de déploiement continu. L'application en elle-même n'est qu'un prétexte, que l'on garde volontairement simpliste.
 
 Les fonctionalités sont données pour les cas _nominaux_. Il est de votre responsabilité de mettre en place de la gestion d'erreur (et de la tester)
 
@@ -57,7 +57,7 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
   - `./client -n CLIENT_NAME --avail`
     - Liste tous les produits auxquel le client à accès  
   - `./client -n CLIENT_NAME --subscribe PRODUCT_ID`
-    - Souscrit à un produit. Si le produit est automatique, la souscription est immediate. Sinon, elle requiert une approbation d'un employé.
+    - Souscrit à un produit. Si le produit est automatique, la souscription est immédiate. Sinon, elle requiert une approbation d'un employé.
   - `./client -n CLIENT_NAME --unsubscribe PRODUCT_ID`
     - Quitte un produit. S'il est impossible de quitter ce produit immédiatement, cela requiert une approbation d'un employé
 
@@ -67,28 +67,28 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
 
   1. Créer un dépôt Git pour le projet (un seul dépôt pour les trois modules)
   2. Mettre en place un système de suivi d'exigences
-    - définition de _user stories_  asssociée au projet
-    - Estimation des _stories_ en terme de risue technique et de valeur métier
-    - les _stories_ doivent être tracée au code via les _commits_
+      - définition de _user stories_  associée au projet
+      - Estimation des _stories_ en terme de risque technique et de valeur métier
+      - les _stories_ doivent être tracée au code via les _commits_
   3. Développement des 3 modules
-     - mise en place d'un système de build tenant compte des dépendances
+      - mise en place d'un système de _build_ tenant compte des dépendances
   4. Tests du système
-    - tests unitaires pour chaque modules
-    - tests d'intégration entre les modules "interface" (employé et client) et le module de la banque
-    - scénario d'acceptations pour valider automatiquement les _stories_
+      - tests unitaires pour chaque modules
+      - tests d'intégration entre les modules "interface" (employé et client) et le module de la banque
+      - scénario d'acceptations pour valider automatiquement les _stories_
   5. Pipeline de déploiement continu
-    - au push sur le dépot, lancement des tests, fabrication des images docker, envoi dans le registre.
+      - au push sur le dépôt, lancement des tests, fabrication des images docker, envoi dans le registre.
   6. Mise en place de scénarios de démonstration
-    - Démontrant la valeur ajouté du pipeline de déploiement continu pour le dévelopement du produit.
+      - Démontrant la valeur ajouté du pipeline de déploiement continu pour le développement du produit.
 
 ## Livrables
 
   - `L1` : Produit minimal viable
     * Version minimale du pipeline (push -> tests)
-    * au moins une fonctionalités dans chaque module
-    * connexion entre modules interface et banque opérationel.
+    * au moins une fonctionnalités dans chaque module
+    * connexion entre modules interface et banque opérationnel.
   - `L2`: Produit final.
-    * Code + pipeline entièrement opérationel
+    * Code + pipeline entièrement opérationnel
     * Rapport de 5 pages max (`rapport.pdf` à la racine du dépôt) expliquant les forces et faiblesses de l'application développée et du pipeline.
 
 
@@ -109,4 +109,15 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
 
 
   - La partie description est évaluée à l'oral pour le premier livrable, et via le rapport pour le second livrable.
-  - si la couverture fonctionelle laisse à désirer, un coefficient de malus pouvant aller jusqu'à 100% sera appliquée à l'évaluation.
+  - si la couverture fonctionnelle laisse à désirer, un coefficient de malus pouvant aller jusqu'à 100% sera appliquée à l'évaluation.
+
+
+## Extension pour les groupes de trois participants
+
+  1. Utilisation d'une base de donnée (BD)
+      - Le système de la banque utilise une base de données (au choix du groupe)
+      - Le système de la banque est mis a disposition sous la forme d'un _docker compose_ liant l'application bancaire a une instance de BD.
+  2. Miroirs
+      - Mise en place d'un dépôt miroir en lecture seule pour héberger une version "publique" du code de l'application
+   3. Comparaison de plate-formes
+      - Proposez une mise en oeuvre de votre pipeline de dévelopement utilisant Travis-CI en plus de GitLab-CI. Analysez les differences entre les deux platformes.  

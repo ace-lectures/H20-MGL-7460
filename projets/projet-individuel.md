@@ -131,29 +131,23 @@ Pour le livrable `L1` :
 
 ## Sujets Choisis à cette session :
 
-  1. Marc-André: Logiciel `Krita`
-      * Dépôt de code : [https://github.com/KDE/krita](https://github.com/KDE/krita)
-  2. Nasseredine: Logiciel `Spring Initializr`
-      * Dépôt de code : [https://github.com/spring-io/initializr](https://github.com/spring-io/initializr)
-  3. Gary : Logiciel `Angular`
-      * Dépôt de code: [https://github.com/angular/angular](https://github.com/angular/angular)
-  4. Cristina: Logiciel `React`
-      * Dépôt de code : [https://github.com/facebook/react](https://github.com/facebook/react)
-  5. Leonardo : Logiciel `NGXS`
-      * Dépôt de code : [https://github.com/ngxs/store](https://github.com/ngxs/store)
-  6. Simon: Logiciel `Dolphin`
-      * Dépôt de code : [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
-  7. Gérald : Logiciel `NodeRed`
-      * Dépôt de code : [https://github.com/node-red/node-red](https://github.com/node-red/node-red)
-  8. Lilian : Logiciel `Jenkins`
-      * Dépôt de code : [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)
-  9. Dionisie : Logiciel `JHipster Generator`
-      * Dépôt de code : [https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster)
-  10. Pape Tahyre: Logiciel `Mockito`
-      * Dépôt de code : [https://github.com/mockito/mockito](https://github.com/mockito/mockito)
-  11. Jean-Pierre: Logiciel `Wordpress`
-      * Dépôt de code : [https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress)
-  12. Majed: Logiciel JUnit5
-      * Dépot de code: [https://github.com/junit-team/junit5](https://github.com/junit-team/junit5)
-  13. Alexandre: Logiciel `MySQL-Server`
-      * Dépôt de code : [https://github.com/mysql/mysql-server](https://github.com/mysql/mysql-server)
+| Étudiant | Cas d'étude | Dépôt de code |
+| :---: | :---: | :--- |
+| Marc-André | `Krita` | [https://github.com/KDE/krita](https://github.com/KDE/krita) |
+| Nasseredine | `Spring Initializr` | [https://github.com/spring-io/initializr](https://github.com/spring-io/initializr) |
+| Gary | `Angular` |[https://github.com/angular/angular](https://github.com/angular/angular) |
+| Cristina | `React` | [https://github.com/facebook/react](https://github.com/facebook/react) |
+| Leonardo | `NGXS` | [https://github.com/ngxs/store](https://github.com/ngxs/store) |
+| Simon | `Dolphin` | [https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) |
+| Gérald | `NodeRed` | [https://github.com/node-red/node-red](https://github.com/node-red/node-red) |
+| Lilian | `Jenkins` | [https://github.com/jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) |
+| Dionisie | `JHipster Generator` |[https://github.com/jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) |
+| Pape Tahyre | `Mockito` | [https://github.com/mockito/mockito](https://github.com/mockito/mockito)  |
+|Jean-Pierre | `Wordpress` |[https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress) |
+|Majed | `JUnit 5`| [https://github.com/junit-team/junit5](https://github.com/junit-team/junit5) |
+| Alexandre | `MySQL-Server` | [https://github.com/mysql/mysql-server](https://github.com/mysql/mysql-server) |
+| Nicolas | `Android Framework` | [https://github.com/aosp-mirror/platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base) |
+| Jimmy |`Kafka`| [https://github.com/apache/kafka](https://github.com/apache/kafka) |
+| Eric | `RxJS` | [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) |
+| David | `Mockito` | [https://github.com/mockito/mockito](https://github.com/mockito/mockito) |
+
