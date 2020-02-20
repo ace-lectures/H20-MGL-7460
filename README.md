@@ -38,7 +38,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 5  | [Exigences, Scénarios d'acceptations](./cours/4_exigences_acceptation.pdf)  | --  |
 | 6  | Déploiement continu, _Test-driven development_  | --  |
 | 7  | --  |  _BDD, TDD_  |
-| 8  | Analyse de code  | _Sonarqube_  |
+| 8  | [Mesure Logicielle](./cours/7_mesure.pdf)  | _Sonarqube_  |
 | 9  | _Semaine de relâche_  | --  |
 | 10  | Principes de développement (_CleanCode_, SOLID)  | --  |
 | 11 | Métriques Logicielles & Visualisation pour la maintenance  |  --  |
