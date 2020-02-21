@@ -154,8 +154,8 @@ Pour le livrable `L1` :
 ## Consignes de livraisons
 
   1. Ouvrez l'onglet _Projet Individuel_ du tableur [Index des travaux](https://docs.google.com/spreadsheets/d/1PA6Uln9ps2Egl5rbn3JykbsHT8GSjfVJKGrty7t44Tg/edit?usp=sharing)
-  2. Editez la colonne "dépôt" en donnant l'URL du dépot Git que vous avez créé pour le projet. Ce dépot doit contenir : 
+  2. Editez la colonne "dépôt" en donnant l'URL du dépot Git **public** que vous avez créé pour le projet. Ce dépot doit contenir : 
       * Votre rapport au format PDF;
       * Les données brutes utilisée pour vos analyses;
       * Les outils que vous avez développé pour traiter les données, ou la documentation permettant de lancer les outils que vous avez réutilisés. 
-  
+  3. Le dépôt est cloné automatiquement à la date de remise. Tout rendu hors consignes ne sera pas considéré (et recevra la note de zéro).
