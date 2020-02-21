@@ -151,3 +151,11 @@ Pour le livrable `L1` :
 | Eric | `RxJS` | [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) |
 | David | `Mockito` | [https://github.com/mockito/mockito](https://github.com/mockito/mockito) |
 
+## Consignes de livraisons
+
+  1. Ouvrez l'onglet _Projet Individuel_ du tableur [Index des travaux](https://docs.google.com/spreadsheets/d/1PA6Uln9ps2Egl5rbn3JykbsHT8GSjfVJKGrty7t44Tg/edit?usp=sharing)
+  2. Editez la colonne "dépôt" en donnant l'URL du dépot Git que vous avez créé pour le projet. Ce dépot doit contenir : 
+      * Votre rapport au format PDF;
+      * Les données brutes utilisée pour vos analyses;
+      * Les outils que vous avez développé pour traiter les données, ou la documentation permettant de lancer les outils que vous avez réutilisés. 
+  
