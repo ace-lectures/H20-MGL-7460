@@ -121,3 +121,36 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
       - Mise en place d'un dépôt miroir en lecture seule pour héberger une version "publique" du code de l'application
    3. Comparaison de plate-formes
       - Proposez une mise en oeuvre de votre pipeline de dévelopement utilisant Travis-CI en plus de GitLab-CI. Analysez les differences entre les deux platformes.  
+
+## Protocole de Remise
+
+A la date de remise, l'URL du dépôt Git donné dans le [tableau de suivi des travaux](https://docs.google.com/spreadsheets/d/1PA6Uln9ps2Egl5rbn3JykbsHT8GSjfVJKGrty7t44Tg/edit?usp=sharing), onglet `Projet Technique`, sera cloné, et votre projet compilé à l'aide de Maven.
+
+```
+mosser@lucifer ~$ git clone URL_DE_VOTRE_PROJET projet
+mosser@lucifer ~$ cd projet
+mosser@lucifer projet$ mvn clean install
+```
+
+Par la suite, le correcteur doit trouver dans la documentation (p.-ex. un fichier `README.md`) comment lancer le système de la banque.
+
+Une fois la banque lancée, depuis la racine de votre dépôt, un script de validation fonctionnel semblable aux commandes suivantes sera lancé. Le script assume que les commandes `./employee` et `./client` sont exécutables (il devrait s'agir de script shells lançant vos programmes, avec un `java -jar` ou un `mvn exec:java` ou quelque autre moyen à votre convenance)
+
+```
+mosser@lucifer projet$ ./employee --add CLIENT_NAME
+...
+mosser@lucifer projet$ ./employee --list CLIENT_NAME
+...
+mosser@lucifer projet$ ./client -n CLIENT_NAME --status
+...
+mosser@lucifer projet$ ./client -n CLIENT_NAME --avail
+...
+mosser@lucifer projet$ ./client -n CLIENT_NAME --subscribe PRODUCT_ID
+...
+mosser@lucifer projet$ ./employee --tasks
+...
+mosser@lucifer projet$ ./employee --accept PRODUCT_ID --client CLIENT_NAME
+...
+mosser@lucifer projet$ ./client -n CLIENT_NAME --status
+```
+_(Ceci est un scénario idéal, on attend de votre produit qu'il soit resistant aux erreurs de saisies)_
