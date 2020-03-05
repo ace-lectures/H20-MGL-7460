@@ -40,7 +40,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 7  | --  |  _BDD, TDD_  |
 | 8  | [Mesure Logicielle](./cours/7_mesure.pdf)  | _Sonarqube_  |
 | 9  | _Semaine de relâche_  | --  |
-| 10  | Principes de développement (_CleanCode_, SOLID)  | --  |
+| 10  | [Clean Code & Tests](./cours/9_cc_tests.pdf)  | --  |
 | 11 | Métriques Logicielles & Visualisation pour la maintenance  |  --  |
 | 12 | _Présentation intermédiaire du Projet Technique_  |  _idem_  |
 | 13 | _Leprechauns du Génie Logiciel_  |  Suivi projet technique  |
@@ -74,6 +74,10 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 </div>
 
 ## Bibliographie & Références
+
+### Cheat Sheet
+
+  - Clean Code: [(pdf)][./docs/clean_code_cheatsheet.pdf]
 
 ### Articles scientifiques
 
