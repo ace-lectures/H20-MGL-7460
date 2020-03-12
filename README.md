@@ -87,6 +87,15 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
   * _On the Nature of Merge Conflicts: a Study of 2,731 Open Source Java Projects Hosted by GitHub_  
     * Gleiph Ghiotto, Leonardo Murta, Márcio Barros, and André van der Hoek. TSE18, ICSE19.
     * [Accès PDF](./docs/ghiotto.pdf)
+  * _Practitioners’ Views on Good Software Testing Practices_
+    * Pavneet Singh Kochhar, Xin Xiat, and David Lo. ICSE19 / _Software Engineering in Practice_
+    * [Accès PDF](./docs/kochar19.pdf)
+  * _State of mutation testing at Google_
+    * Goran Petrovic, Marko Ivankovic
+    * [Accès PDF](./docs/petrovic19.pdf)
+  * _QuickREST: Property-based Test Generation of OpenAPI-Described RESTful APIs_
+    * Stefan Karlsson, Adnan Causevic, and Daniel Sundmark. ICST20.
+    * [Accès PDF](./docs/karlsson20.pdf)
 
 ### Livres d'enseignement
 
