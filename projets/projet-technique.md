@@ -124,7 +124,7 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
 
 ## Protocole de Remise
 
-A la date de remise, l'URL du dépôt Git donné dans le [tableau de suivi des travaux](https://docs.google.com/spreadsheets/d/1PA6Uln9ps2Egl5rbn3JykbsHT8GSjfVJKGrty7t44Tg/edit?usp=sharing), onglet `Projet Technique`, sera cloné, et votre projet compilé à l'aide de Maven.
+A la date de remise, l'URL du dépôt Git donné dans le [tableau de suivi des travaux](https://docs.google.com/spreadsheets/d/1PA6Uln9ps2Egl5rbn3JykbsHT8GSjfVJKGrty7t44Tg/edit?usp=sharing), onglet `Projet Technique`, sera cloné, et votre projet compilé à l'aide de Maven (ou l'équivalent gradle).
 
 ```
 mosser@lucifer ~$ git clone URL_DE_VOTRE_PROJET projet
