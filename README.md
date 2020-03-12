@@ -40,14 +40,14 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 7  | --  |  _BDD, TDD_  |
 | 8  | [Mesure Logicielle](./cours/7_mesure.pdf)  | _Sonarqube_  |
 | 9  | _Semaine de relâche_  | --  |
-| 10  | [Clean Code & Tests](./cours/9_cc_tests.pdf)  | --  |
-| 11 | Métriques Logicielles & Visualisation pour la maintenance  |  --  |
+| 10 | [Clean Code & Tests](./cours/9_cc_tests.pdf)  | Suivi projet(s) |
+| 11 | [[Visualisation pour la maintenance]](./cours/10_visualisation.pdf)  |  Suivi projet(s)  |
 | 12 | _Présentation intermédiaire du Projet Technique_  |  _idem_  |
 | 13 | _Leprechauns du Génie Logiciel_  |  Suivi projet technique  |
-| 14 | Cours invité DevOps (Pr Francis Bordeleau, ÉTS) |  Suivi projet technique  |
-| 15 | Cours invité qualité (Pr Xavier Blanc, Univ. Bordeaux) |  Suivi projet technique  |
-| 16 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
-| 17 | _Rencontres Projet Individuel_  |  Suivi projet technique  |
+| 14 | Cours invité DevOps (Pr Francis Bordeleau, ÉTS) |  Suivi projet(s)  |
+| 15 | Cours invité qualité (Pr Xavier Blanc, Univ. Bordeaux) |  Suivi projet(s)  |
+| 16 | _Rencontres Projet Individuel_  |  Suivi projet(s)  |
+| 17 | _Rencontres Projet Individuel_  |  Suivi projet(s)  |
 
 
   * Énoncé des travaux pratiques :
@@ -77,7 +77,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
 ### Cheat Sheet
 
-  - Clean Code: [(pdf)][./docs/clean_code_cheatsheet.pdf]
+  - Clean Code: [(pdf)](./docs/clean_code_cheatsheet.pdf)
 
 ### Articles scientifiques
 
