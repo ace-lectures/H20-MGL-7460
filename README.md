@@ -23,6 +23,7 @@ Sensibiliser les étudiants aux problématiques de réalisation et de maintenanc
 | 19.01.20 | Choix du cas d'études individuel   | 0%  |
 | 01.03.20 |  Projet Individuel - V1  |  20%  |
 | 15.03.20 |  Projet Technique - MVP  |  20%  |
+| 27.03.20 |  Rapport léger sur le projet technique  |  --  |
 | 12.04.20 |  Projet Individuel - V2  |  40%  |
 | 26.04.20 |  Projet Technique - Final |  20%  |
 
@@ -42,8 +43,8 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 9  | _Semaine de relâche_  | --  |
 | 10 | [Clean Code & Tests](./cours/9_cc_tests.pdf)  | Suivi projet(s) |
 | 11 | [[Visualisation pour la maintenance]](./cours/10_visualisation.pdf)  |  Suivi projet(s)  |
-| 12 | _Présentation intermédiaire du Projet Technique_  |  _idem_  |
-| 13 | _Leprechauns du Génie Logiciel_  |  Suivi projet technique  |
+| 12 | ~Présentation intermédiaire du Projet Technique~ |  ~idem~  |
+| 13 | ~Leprechauns du Génie Logiciel~  |  ~Suivi projet technique~ |
 | 14 | Cours invité DevOps (Pr Francis Bordeleau, ÉTS) |  Suivi projet(s)  |
 | 15 | Cours invité qualité (Pr Xavier Blanc, Univ. Bordeaux) |  Suivi projet(s)  |
 | 16 | _Rencontres Projet Individuel_  |  Suivi projet(s)  |
