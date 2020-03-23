@@ -87,6 +87,7 @@ Plutot que renseigner à chaque invocation son numéro client, on pourrait le st
     * Version minimale du pipeline (push -> tests)
     * au moins une fonctionnalités dans chaque module
     * connexion entre modules interface et banque opérationnel.
+    * :rotating_light: Pour remplacer la présentation orale annulée a cause du confinement COVID-19, un “rapport” de 2/3 pages décrivant votre projet et ses forces faiblesses qui remplacera dans l’évaluation la présentation initialement prévue.
   - `L2`: Produit final.
     * Code + pipeline entièrement opérationnel
     * Rapport de 5 pages max (`rapport.pdf` à la racine du dépôt) expliquant les forces et faiblesses de l'application développée et du pipeline.
