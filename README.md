@@ -66,7 +66,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 
   - Le cours utilise la grille d'évaluation standard de l'UQAM au second cycle définie dans RESULTATS.
   - La note de passage est de 63/100, conformément à la grille du second cycle.
-  - *Attention*: une note inférieure à 60/100 sur le projet individuel fait échouer le cours, indépendamment de la note obtenue au projet technique.
+  - AMEAGEMENT COVID-19: ~*Attention*: une note inférieure à 60/100 sur le projet individuel fait échouer le cours, indépendamment de la note obtenue au projet technique.~ Le double seuil est abaissé à 50/100.
 
 <div align="center">
 
