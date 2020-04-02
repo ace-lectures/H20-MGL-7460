@@ -42,13 +42,13 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 8  | [Mesure Logicielle](./cours/7_mesure.pdf)  | _Sonarqube_  |
 | 9  | _Semaine de relâche_  | --  |
 | 10 | [Clean Code & Tests](./cours/9_cc_tests.pdf)  | Suivi projet(s) |
-| 11 | [[Visualisation pour la maintenance]](./cours/10_visualisation.pdf)  |  Suivi projet(s)  |
+| 11 | [Visualisation pour la maintenance](./cours/10_visualisation.pdf)  |  Suivi projet(s)  |
 | 12 | ~Présentation intermédiaire du Projet Technique~ |  ~idem~  |
 | 13 | ~Leprechauns du Génie Logiciel~  |  ~Suivi projet technique~ |
-| 14 | Cours invité DevOps (Pr Francis Bordeleau, ÉTS) |  Suivi projet(s)  |
-| 15 | Cours invité qualité (Pr Xavier Blanc, Univ. Bordeaux) |  Suivi projet(s)  |
-| 16 | _Rencontres Projet Individuel_  |  Suivi projet(s)  |
-| 17 | _Rencontres Projet Individuel_  |  Suivi projet(s)  |
+| 14 | [Cours invité DevOps](./cours/13_DevOps.pdf), Pr Francis Bordeleau, ÉTS. ([Vidéo](https://meet.jit.si/UQAM-MGL-7460))|  [Suivi projet(s)](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |
+| 15 | Cours invité qualité, Pr Xavier Blanc, Univ. Bordeaux. ([Vidéo](https://meet.jit.si/UQAM-MGL-7460)) |  [Suivi projet(s)](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |
+| 16 | [_Rencontres Projet Individuel_](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |  Suivi projet(s) SFL |
+| 17 | [_Rencontres Projet Individuel_](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |  Suivi projet(s) SFL |
 
 
   * Énoncé des travaux pratiques :
@@ -122,6 +122,8 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
     * Disponible en bibliothèque (BU Sciences, cote `QA 76.76 R42 F69 .1999`)
   * _Code as a Crime Scene_. The pragmatic programmers.
     * Adam Tornhill.  
+  * _The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations_.
+    * Gene Kim, Patrick Debois, John Willis, Jez Humble & John Allspawn.
 
 ## Règlement 18 sur les Infractions de nature académique
 
