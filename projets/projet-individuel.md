@@ -120,13 +120,20 @@ _Astuce_ : Plus votre rapport intermédiaire contient d'information, plus vous o
 |   | Pertinence de la méthodologie  | 20%  |
 | Code   | Réutilisabilité des outils développés  | 10%  |
 |   | Qualité du code  |  5%  |
-| Entretien    | Qualité de la présentation  | 10%  |
-|   | Réponses aux questions  | 15%  |
+| Entretien    | Clarté de la discussion | 10%  |
+|   | Recul sur les réponses aux questions  | 15%  |
 
-Pour le livrable `L1` :
+
+### Pour le livrable `L1`
 
   * Comme il n'y a pas d'entretien, la note sur `/75` est ramenée à 100 par une règle de trois, arrondi au point le plus proche.
   * Si les critères d'évaluations sont les mêmes que pour `L2`, l'évaluation sera plus pointue pour le rendu final que pour le rendu intermédiaire.
+
+### Pour le livrable `L2`
+
+  * Vous devez vous inscrire pour une rencontre avec le professeur, qui aura lieu dans les deux dernières semaines du cours;
+  * Cette rencontre sera une séance de questions réponse sur votre étude, pour aller plus loin et vous donner l'opportunité de defendre a l'oral vos travaux;
+  * Il n'y a pas de présentation (au sens de Powerpoint ou assimiléee) a prévoir, il s'agit "simplement" d'une discussion.
 
 
 ## Sujets Choisis à cette session :
