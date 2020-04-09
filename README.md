@@ -46,7 +46,7 @@ En régime régulier, les cours ont lieu le jeudi, de 15h à 18h, dans les locau
 | 12 | ~Présentation intermédiaire du Projet Technique~ |  ~idem~  |
 | 13 | ~Leprechauns du Génie Logiciel~  |  ~Suivi projet technique~ |
 | 14 | [Cours invité DevOps](./cours/13_DevOps.pdf), Pr Francis Bordeleau, ÉTS. ([Vidéo](https://meet.jit.si/UQAM-MGL-7460))|  [Suivi projet(s)](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |
-| 15 | Cours invité qualité, Pr Xavier Blanc, Univ. Bordeaux. ([Vidéo](https://meet.jit.si/UQAM-MGL-7460)) |  [Suivi projet(s)](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |
+| 15 | [Cours invité qualité](./cours/14_qualite.pdf), Pr Xavier Blanc, Univ. Bordeaux. ([Vidéo](https://meet.jit.si/UQAM-MGL-7460)) |  [Suivi projet(s)](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |
 | 16 | [_Rencontres Projet Individuel_](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |  Suivi projet(s) SFL |
 | 17 | [_Rencontres Projet Individuel_](https://docs.google.com/spreadsheets/d/12DkwUvLIl6fEUw3t8X9-YCRnhtGXfI7hgFNcJD0bEgM/edit?usp=sharing)  |  Suivi projet(s) SFL |
 
